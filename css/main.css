@@ -42,11 +42,11 @@ nav {
 
 .headline h1 {
   font-size: 6em;
-  margin-top: -1%;
+  margin-top: -.5%;
 }
 
 .headline h2 {
-  margin-top: -3%;
+  margin-top: -5%;
 }
 
 #portfolio {
